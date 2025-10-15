@@ -3,4 +3,4 @@
 
 
 
-score
+score 70%
